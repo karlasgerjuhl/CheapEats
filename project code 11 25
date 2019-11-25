@@ -1,0 +1,14 @@
+import csv
+
+d={}
+with open("data.csv", 'r') as data_file:
+    data = csv.DictReader(data_file, delimiter=",")
+    for row in data:
+
+        item = d.get(row["ZIPCODE"], dict())
+
+        item[row["RESTNAME"]] = int(row["DISCOUNT"])
+
+        d[row["ZIPCODE"]] = item
+
+print (d.get('28006'))
