@@ -1,6 +1,6 @@
 # CheapEats
 
-Welcome to ZIPcount! The quick and easy discount finder for food around Madrid! Students spend too much on overpriced food delivery only because it's convenient. We will make eating cheap more convenient. Our program is simple. Enter a postal code and the type of food you want. We will return with a list of restaurants with promotions, as well as a map-view to make it easier for you.
+Welcome to CheapEats! The quick and easy discount finder for food around Madrid! Students spend too much on overpriced food delivery only because it's convenient. We will make eating cheap more convenient. Our program is simple. Enter a postal code and the type of food you want. We will return with a list of restaurants with promotions, as well as a map-view to make it easier for you.
 
 
 ## Getting Started
@@ -26,12 +26,12 @@ Make sure to import csv before running the program
 
 Download the project as Zip to any place you can access later
 
-Suppose you downloaded the zip at desktop, double click the zip file, it should unzip automatically, and turn into a folder. Open the folder, you should see two files: data.csv and algorithmsV2.py. 
+Once you downloaded the zip at desktop, double click the zip file, it should unzip automatically, and turn into a folder. Open the folder, you should see two files: data.csv and code.11.12.py. (Ensure this is the latest version in the releases section of this repo)
 
 
 ## Running the program
 
-Suppose you have PyCharm installed, double click on algorithmsV2.py and run the file through PyCharm. The program should ask you what is your zip code, type in your zip code, then the program will return the restaurants and discount base on the zip code you provided.
+Once you have PyCharm installed, double click on code.11.12.py and run the file through PyCharm. The program should ask you what is your zip code, type in your zip code, then the program will return the restaurants and discount base on the zip code you provided.
 
 
 ## FOR UX Testing
